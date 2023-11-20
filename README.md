@@ -1,16 +1,15 @@
-### Hi there 👋
+### 專長
+🐈 機器學習 \
+🐖 PYTHON \
+🐘 R \
 
-<!--
-**Kinkon910606/Kinkon910606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 經歷
+⚔️ 輔仁大學 統計資訊學習 \
+⚔️ 國立屏東女子中學 \ 
 
-Here are some ideas to get you started:
+### 信箱
+📬 ejiwu6m6@gmail.com \
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 愛好
+🧤 魔術方塊 \ 
+🧤 Bass \
